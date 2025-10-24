@@ -1,26 +1,74 @@
 # Hi — I'm Mohammed Arsh 👋
-**Software Engineer • Full-stack (Next.js, MERN, React Native,Expo, Flutter)**
+**Senior Full-Stack Engineer • Founder & Solo Developer at @WUSLA-TEAM**
 
-🔭 Building product-grade SaaS, marketplaces, and mobile apps.  
-🌱 Currently: Shipping a polished Next.js portfolio + 3 production-style projects.  
-📫 Reach me: wuslateam@gmail.com | linkedin.com/in/yourprofile
-
----
-
-## 🚀 Highlights
-- **Product focus:** Portfolio, micro-SaaS, marketplace, analytics dashboards.
-- **Stacks:** Next.js · React · Node/Express · MongoDB · React Native (Expo) · Flutter · Vue/Angular
-- **Pinned projects:** (Will pin top 5 repos after Day 3)
+🚀 Building enterprise-grade applications end-to-end — from architecture to deployment.
+💼 **Sole architect and developer** of all WUSLA organization projects, handling full-stack development, DevOps, and product strategy independently.
+🏗️ Specialized in scalable SaaS platforms, real-time applications, and cross-platform mobile solutions.
 
 ---
 
-## 🛠 Tech & Tools
-![TypeScript](https://img.shields.io/badge/TS-typed-blue) ![React](https://img.shields.io/badge/React-black) ![Next.js](https://img.shields.io/badge/Next.js-black) ![Node](https://img.shields.io/badge/Node.js-green)
+## 💡 Professional Highlights
+
+**Solo Engineering Leadership:**
+- 🏢 **Founded & built @WUSLA-TEAM** organization from ground up — architected and developed all projects single-handedly
+- 📱 Delivered production-ready applications across web (Next.js/React) and mobile (React Native/Flutter)
+- 🔧 Full ownership of technology stack decisions, system design, CI/CD pipelines, and deployment strategies
+- 📊 Managed complete SDLC: requirements gathering, architecture design, development, testing, and production deployment
+
+**Technical Expertise:**
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, React Native (Expo), Flutter
+- **Backend:** Node.js, Express, REST APIs, GraphQL, real-time systems (WebSockets)
+- **Database:** MongoDB, PostgreSQL, Redis, Prisma ORM
+- **DevOps:** Docker, CI/CD (GitHub Actions), Vercel, AWS, Nginx
+- **Architecture:** Microservices, monorepos, scalable system design, API design patterns
 
 ---
 
-## 📂 What you’ll find here
-- Product-grade repos with docs, CI, and deployment links.
-- Live demos (Vercel / Expo / APK) and architecture diagrams.
+## 🎯 Featured Solo Projects (@WUSLA-TEAM)
+
+All projects developed **independently** with full responsibility for:
+- System architecture & database design
+- Frontend & backend implementation
+- API development & integration
+- Testing & quality assurance
+- Deployment & production monitoring
+
+**Current Production Projects:**
+- 🌐 **[WUSLA Official Website](https://github.com/WUSLA-TEAM/wusla-website-official)** - Next.js enterprise website
+- ⚽ **[Wafy Sports Platform](https://github.com/WUSLA-TEAM/wafy-sports)** - Real-time sports management system
+- 📱 **[Aether Mobile App](https://github.com/WUSLA-TEAM/Aether_expo)** - Cross-platform React Native application
 
 ---
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 📈 What You'll Find Here
+
+- ✅ **Production-grade code** with comprehensive documentation
+- 🏗️ **System architecture** diagrams and technical specifications
+- 🔗 **Live deployments** with demo links and API documentation
+- 📝 **Best practices** in code organization, testing, and CI/CD
+- 🚀 **End-to-end projects** showcasing full development lifecycle
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** wuslateam@gmail.com
+- 🌐 **Organization:** [@WUSLA-TEAM](https://github.com/WUSLA-TEAM)
+
+---
+
+*Independent full-stack engineer with proven ability to architect, develop, and deploy enterprise applications solo. Seeking challenging opportunities to leverage technical expertise and drive innovation.*
